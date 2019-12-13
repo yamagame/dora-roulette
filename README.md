@@ -14,7 +14,7 @@
 $ git clone https://github.com/yamagame/dora-roulette
 $ cd dora-roulette
 $ npm install
-$ npm build
+$ npm run build
 ```
 
 npm build を実行すると、アプリが build されますので以下のコマンドを実行します。
